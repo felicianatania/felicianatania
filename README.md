@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felicia Natania</h1>
 <h3 align="center">A passionate computer sciene student from Indonesia</h3>
 
-- 🌱 I’m currently learning **React, Laravel, Tailwind, Kotlin**
+- 🌱 I’m currently learning **React, Laravel, Tailwind**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
